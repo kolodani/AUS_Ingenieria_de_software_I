@@ -1,4 +1,5 @@
 *** CAPITULO 01 ***
+--- 1.0 ---
 /// El software y la ingenieria de software ///
 
 el software de computadoras incluye a cualquier software que se ejecute en cualquier arquitectura.

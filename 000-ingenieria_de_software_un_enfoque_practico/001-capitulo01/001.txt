@@ -1,0 +1,121 @@
+*** CAPITULO 01 ***
+--- 1.1 ---
+/// La naturaleza del software ///
+
+el software es un transformador de informacion, produce, administra, adquiere, modifica, dspliega o
+transmite informacion que puede ser tan pequeña como un bit como tan grande y compleja como una
+presentacion multimedios.
+
+el software tambien es el medio en que se mueve la informacion y otro software (redes)
+tambien son sistemas operativos y herramientas y ambientes de software.
+
+lo mas importante el software maneja lo mas importante de nuestra epoca, informacion.
+
+en los ultimos cincuenta años la tecnologia evoluciono tan rapido que las maquinas necesitan
+software mas sofisticado y complejo, esto produce resultados increibles pero genera una dificultad
+a la hora de construir un sistema.
+
+ahora se reemplazo al programador solitario por equipos de trabajo.
+
+--- 1.1.1 ---
+/// Definicion de software ///
+
+El software es:
+1) instrucciones (programas de computo) que cuando se ejecutan proporcionan las caracteristicas,
+funcion y desempeño buscados;
+2) estructuras de datos que permiten que los programas manipulen en forma adecuada la informacion, y
+3) informacion descriptiva tanto en papel como en forma virtuales que describen la operacion y uso
+de los programas.
+
+el software es elemento de un sistema logico y no de uno fisico, por eso tiene considerables
+diferencias con el hardware.
+
+1. El software se desarrolla o modifica con intelecto; no se manufactura en el sentido clasico.
+
+el software no se manofactura como el hardware, ademas en la produccion de hardware hay problemas
+de calidad que no existen o son faciles de corregir en el software.
+
+2. el software no se "desgasta".
+
+el hardware tiene una tasa de falla alta al principio si tiene problemas de diseño.
+esto se corrige, produciendo una baja en la tasa, pero luego por el uso y el tiempo los componentes
+empiezan a desgastarse.
+
+en el caso del software la tasa de fallos es al comienzo y cuando se realiza un cambio en el mismo.
+el mismo nunca se desgasta pero si se deteriora.
+poco a poco la curva aumenta ya que mas alla de que el software cambio y se corrigieron los errores,
+el mismo empieza a deteriorarse.
+
+el desgaste del hardware se combate poniendo una refaccion, esto no existe en el software, por eso
+la solucion de un problema es considerablemente mayo que el mantenimiento del hardware.
+
+3. aunque la industria se mueve hacia la construccion basada en componentes, la mayor parte del
+software se construye para uso individualizado.
+
+un concepto comun en la ingenieria es hacer componentes reutilizables, algo que todavia no se a
+llegado a explotar con fuerza en la industria del software.
+
+igualmente contamos con componentes que se crean para ser reutilizables como el uso de librerias.
+
+--- 1.1.2 ---
+/// Dominios de aplicacion del software ///
+
+actualmente hay siete grandes categorias de software
+
+Software de sistemas:
+software que tiene una gran interaccion con el hardware, dentro de esta categoria estan,
+compiladores editores y herramientas para administar archivos, componentes de sistemas operativos,
+manejadores, software de redes, procesadores de telecomunicaciones.
+
+Software de aplicacion:
+programas aislados que resuelven una necesidad especifica de negocios, procesan datos comerciales
+o tecnicos en una forma que facilita las operaciones de negocios.
+
+Software de ingenieria y ciencias:
+se ha caracterizado por algoritmos que devoraban numeros, hoy la ciencia a abandonado los
+algoritmos numericos convencionales y se a volcado otro tipo de acercamiento mas parecido al del
+software de sistemas.
+
+Software incrustado:
+recide dentro del producto, y tiene una tarea unica y especifica, controlar caracteristicas y
+funciones para el usuario final o para el sistema en si.
+
+Software de linea de productos:
+software que es diseñado para un publico en especifico como de gestion de stock, o masivo como
+procesamiento de texto, hojas de calculo, graficas, multimedios, entretenimiento, administracion de
+base de datos.
+
+Aplicaciones web:
+estas se centran en redes que agrupan una gama de aplicaciones. antes eran mas sencillas en los
+comienzos del internet pero ahora se convirtieron en aplicaciones muy poderosas con muchos usos
+desde la aparicion de la web 2.0.
+
+Software de inteligencia artificial:
+hace uso de algoritmos no numericos para resolver problemas complejos que no son faciles de tratar
+con analisis directo o computacionalmente.
+
+no es raro pensar que la mayoria del codigo se actualiza y no se rehace de cero. muchos
+profesionales son mas jovenes que el software que estan manteniendo.
+
+Computacion en un mundo abierto:
+a travez de las redes inalambricas se este llevando el software y aplicaciones a todos los ambitos,
+dispositivos moviles, computadoras personales y sistemas empresariales a comunicarse todos entre
+si.
+
+Construccion de redes:
+el internet se convirtio rapidamente en el motor que provee el contenido al mundo. el desafio es
+hacer arquitecturas sencillas para poder llegar a todos lados.
+
+Fuente abierta:
+tendencia creciente a distribuir codigo fuente para aplicaciones de sistemas de modo que mucha
+gente pueda contribuir en el desarrollo. el desafio es hacer codigo autodescriptivo.
+
+los cambio que vendran no se podran predecir pero un puede prepararse y armar herramientas que
+sean agiles y se adapten a los cambios en la tecnologia.
+
+
+
+
+
+
+
