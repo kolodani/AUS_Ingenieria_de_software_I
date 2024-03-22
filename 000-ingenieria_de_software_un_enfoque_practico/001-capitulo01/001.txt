@@ -113,9 +113,28 @@ gente pueda contribuir en el desarrollo. el desafio es hacer codigo autodescript
 los cambio que vendran no se podran predecir pero un puede prepararse y armar herramientas que
 sean agiles y se adapten a los cambios en la tecnologia.
 
+--- 1.1.3 ---
+/// Software heredado ///
 
+el software heredado se a adaptado y modificado de manera continua para que satisfaga nuestras
+necesidades, pero tambien a las grandes empresas se le hace costoso mantenerlo y riesgoso hacerlo
+evolucionar.
 
+muchos sistemas heredados dan apouo a las funciones basicas de un negocio y se caracterizan por su
+longevidad.
 
+desafortunadamente, el software heredado puede presentar mala calidad.
+puede que su diseño no pueda extenderse, codigo confuso, documentacion mala o inexistente, etc.
 
+una respuesta razonable es no hacer nada, el sistema satisface al usuario y no necesita cambios a
+menos que pase algo significativo. sin embargo, al pasar el tiempo es necesario que el software
+evolucione por las siguientes razones:
 
+* cumplir nuevas necesidades del ambiente de computo y de la tecnologia.
+* implementar nuevos requisitos de negocios.
+* operable en nuevos sistemas y bases de datos modernas.
+* ser viable en un ambiente de redes.
+
+debe hacerse reingenieria del sistema heredado. crear conceptos que se basen en la evolucion.
+desarrollar a partir de los antiguos para que todos cooperen y operen entre si. 
 
