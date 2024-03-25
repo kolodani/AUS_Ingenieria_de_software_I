@@ -1,0 +1,51 @@
+*** CAPITULO 01 ***
+--- 1.3 ---
+/// Ingenieria de software ///
+
+realidades del software:
+
+* cada vez hay mas software encrustado, por ende mas gente tiene acceso a el y quiere que cumpla
+con ciertos requisitos y que cumpla con determinadas caracteristicas. por eso se debe tener una
+comprension del problema antes de empezar a programar.
+
+* los requerimientos actuales han hecho que los sistemas se vuelvan mas complejos y sofisticados
+cada dia, por ende el diseño es una parte crucial.
+
+* las personas, empresas y gobiernos dependen del software si este falla podria generar pequeños
+problemas o catastrofes. el software debe ser de alta calidad.
+
+* al aumentar su valor producido aumentaran los usuarios y la longevidad del sitio. esto demandara
+adaptarla y mantenerla, por esto se debe tener un software facil de mantener.
+
+se debe hace ingenieria de software en todas sus formas y a traves de todos sus dominios de
+aplicacion.
+
+La ingenieria de software es el establecimiento y uso de principios fundamentales de la ingenieria
+con objeto de desarrollar en forma economica software que sea confiable y que trabaje con
+eficiencia en maquinas reales.
+
+la deficinicion de la IEEE es:
+La ingenieria de software es:
+1) la aplicacion de un enfoque sistematico, disciplinado y cuantificable al desarrollo, operacion y
+mantenimiento de software; es decir, la aplicacion de la ingenieria al software.
+2) el estudio de enfoque segun el punto 1.
+
+tambien se necesita adaptabilidad y agilidad.
+
+la ingenieria de software se apoya en el compromiso con la calidad. obra de la mejora continua.
+
+      --         HERRAMIENTAS      --
+    ----           METODOS         ----
+  ------           PROCESOS        ------
+-------- COMPROMISO CON LA CALIDAD --------
+
+el fundamento para la ingenieria de software es la capa proceso. en el proceso se define la\
+estructura, se forma la base de para el control de la administracion y se aplican metodos tecnicos,
+se generan productos del trabajo.
+
+los metodos proporcionan tecnicas para elaborar software. los metodos se basan en un conjunto de
+principios fundamentales que gobiernan cada area de la tecnologia.
+
+las herramientas de la ingenieria de software proporcionan un apoyo automatizado o se automatizan
+para el proceso y los metodos.
+
